@@ -1,0 +1,15 @@
+name: customer-support-ai
+version: 1.0
+
+endpoints:
+  reset:
+    path: /reset
+    method: POST
+
+  step:
+    path: /step
+    method: POST
+
+health:
+  path: /health
+  method: GET
