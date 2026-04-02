@@ -1,5 +1,7 @@
 # 🤖 Customer Support AI Environment
 
+🚀 A reward-based AI environment for simulating real-world customer support tasks.
+
 ## 📌 Overview
 This project simulates a **Customer Support AI system** designed to handle real-world customer queries such as order delays, damaged products, and refund requests.
 
