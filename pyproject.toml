@@ -1,0 +1,16 @@
+[project]
+name = "customer-support-ai"
+version = "1.0.0"
+description = "Customer Support AI Environment"
+authors = [
+    { name = "Sai Likita" }
+]
+
+dependencies = [
+    "fastapi",
+    "uvicorn"
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
